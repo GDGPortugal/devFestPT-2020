@@ -15,10 +15,10 @@ shortTitle: "DevFestPT20"
 email: "gdgportugal@googlegroups.com"
 description: "A Google Developers Group, mais conhecida como GDG, é uma iniciativa promovida pela Google que pretende ser um mecanismo para a criação de comunidades locais, cujo principal objectivo é difundir conhecimento tecnológico e não tecnológico pelos seus membros"
 baseurl: ""
-url: "https://gdg-portugal.github.io/"
+url: "https://gdgportugal.github.io/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "https://gdg-portugal.github.io/"
+googleAnalyticsSiteUrl: "https://gdgportugal.github.io/"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
