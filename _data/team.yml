@@ -1,60 +1,80 @@
-- 
-  id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
-  id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+- name: GDG Exemplo
+  members:
+    - id: 0
+      name: Nome
+      surname: Sobrenome
+      title: Título a ser apresentado
+      thumbnailUrl: VitaliyZasadnyy.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Exemplo
+      social:
+        - name: google-plus
+          link: 'https://google.com/+VitalikZasadnyy'
+        - name: twitter
+          link: 'https://twitter.coyy'
+        - name: github
+          link: 'https://github.com/zasadnyy'
+        - name: site
+          link: 'http://zasadnyy.com/'
+- name: Castelo Branco
+  members:
+- name: GDG Coimbra
+  members:
+- name: GDG Covilhã
+  members:
+- name: GDG Faro
+  members:
+- name: GDG Leiria
+  members:
+- name: GDG Lisboa
+  members:
+- name: GDG Madeira
+  members:
+    - id: 1
+      name: Carlos
+      surname: Abreu
+      title: Organizador GDG Madeira
+      thumbnailUrl: CarlosAbreu.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Madeira
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/carlos-abreu-ab8518169/'
+        - name: twitter
+          link: 'https://twitter.com/carlosrsabreu'
+        - name: github
+          link: 'https://github.com/kidlivin'
+        - name: instagram
+          link: 'https://www.instagram.com/carlosrsabreu/'
+    - id: 2
+      name: Diogo 
+      surname: Freitas
+      title: Organizador GDG Madeira
+      thumbnailUrl: DiogoFreitas.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Madeira
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/diogo-f-54235199/'
+    - id: 3
+      name: Fernando 
+      surname: Martins
+      title: Organizador GDG Madeira
+      thumbnailUrl: FernandoMartins.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Madeira
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/fernando-jacob-teixeira-martins-16b1b6162/'
+        - name: github
+          link: 'https://github.com/fernando996'
+        - name: instagram
+          link: 'https://www.instagram.com/fernando.j.ma/'
+- name: GDG Porto
+  members:
+
+
