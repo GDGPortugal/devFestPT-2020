@@ -1,22 +1,5 @@
-- name: GDG Exemplo
+- name: GDG Bragança
   members:
-    - id: 0
-      name: Nome
-      surname: Sobrenome
-      title: Título a ser apresentado
-      thumbnailUrl: VitaliyZasadnyy.jpg
-      ribbon:
-        - abbr: GDG
-          title: GDG Exemplo
-      social:
-        - name: google-plus
-          link: 'https://google.com/+VitalikZasadnyy'
-        - name: twitter
-          link: 'https://twitter.coyy'
-        - name: github
-          link: 'https://github.com/zasadnyy'
-        - name: site
-          link: 'http://zasadnyy.com/'
 - name: Castelo Branco
   members:
 - name: GDG Coimbra
@@ -27,6 +10,74 @@
   members:
 - name: GDG Leiria
   members:
+    - id: 1
+      name: Pedro
+      surname: Alves
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/pedro.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+        - name: github
+          link: 'https://github.com/petealves'
+        - name: instagram
+          link: 'https://www.instagram.com/carlosrsabreu/'
+    - id: 2
+      name: Ricardo
+      surname: Maltez
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/ricardo.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+        - name: github
+          link: 'https://github.com/freakstatic'
+    - id: 3
+      name: Bruno
+      surname: Oliveira
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/bruno.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+    - id: 4
+      name: Rúben
+      surname: Caceiro
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/ruben.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+        - name: github
+          link: 'https://github.com/rcaceiro'
+    - id: 5
+      name: Miguel
+      surname: Sousa
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/miguel.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+        - name: github
+          link: 'https://github.com/imikezz'
+    - id: 6
+      name: Bernardo
+      surname: Borges
+      title: Organizador GDG Leiria
+      thumbnailUrl: Leiria/bernardo.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Leiria
+      social:
+        - name: github
+          link: 'https://github.com/kishido'
+        - name: twitter
+          link: 'https://twitter.com/kishido88'
 - name: GDG Lisboa
   members:
 - name: GDG Madeira

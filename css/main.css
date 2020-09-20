@@ -25,6 +25,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     max-height: 39px;
 }
 
+.other-partners-images{
+    max-width: 150px;
+}
+
 audio, canvas, progress, video {
     display: inline-block;
     vertical-align: baseline
