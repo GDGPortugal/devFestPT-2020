@@ -88,15 +88,15 @@ rockstarSpeakersButtonText: "Ver todos os oradores"
 # Location Block
 locationBlockTitle: "Localização"
 eventLocationName: "Evento Online"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: "https://gdg.community.dev/events/details/google-gdg-coimbra-presents-devfest-portugal-2020-with-gdg/#/"
 eventStreetAddress: "22 Teatral'na St"
 eventAddressLocality: "Lviv"
 eventAddressLocalityRegion: "Lvivska"
 eventPostalCode: "79000"
 eventAddressCountry: "Portugal"
-eventStartTime: "2020-10-17T10:00"
+eventStartTime: "2020-10-17T14:00"
 eventDoorTime: "09:00"
-eventEndTime: "2020-10-18T20:00"
+eventEndTime: "2020-10-18T18:00"
 eventPlaceCoordinates: "38.7436883, -9.1952226"
 mapCenterCoordinates: "38.7436883, -9.1952226"
 mapMobileCenterCoordinates: "38.7436883, -9.1952226"
@@ -201,7 +201,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nós"
-aboutUs: "O GDG (Google Developer Group) é uma comunidade que se orgulha-se de ser um ambiente inclusivo onde todos e qualquer pessoa interessada em tecnologia - desde programadores principiantes a profissionais experientes - são bem-vindos a participar. A GDG Portugal junta a comunidade nacional dividida para organizar o DEVfest mais abrangente de Portugal."
+aboutUs: "O GDG (Google Developer Group) é uma comunidade que se orgulha de ser um ambiente inclusivo onde todos e qualquer pessoa interessada em tecnologia - desde programadores principiantes a profissionais experientes - são bem-vindos a participar. A GDG Portugal, juntando todas as comunidades GDG a nível nacional, tem como missão organizar nos dias 16 e 17 de Outubro de 2020 o DevFest mais abrangente de Portugal."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
