@@ -4,6 +4,62 @@
   members:
 - name: GDG Coimbra
   members:
+    - id: 1
+      name: Carlos
+      surname: Mota
+      title: Organizador GDG Coimbra
+      thumbnailUrl: Coimbra/cafonsomota.png
+      ribbon:
+        - abbr: GDG
+          title: GDG Coimbra
+      social:
+        - name: github
+          link: 'https://github.com/cmota'
+        - name: twitter
+          link: 'https://www.twitter.com/cafonsomota/'
+        - name: site
+          link: 'https://cafonsomota.xyz/'
+    - id: 2
+      name: Ricardo
+      surname: Costeira
+      title: Organizador GDG Coimbra
+      thumbnailUrl: Coimbra/ricardo.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Coimbra
+      social:
+        - name: github
+          link: 'https://github.com/rcosteira79'
+        - name: twitter
+          link: 'https://twitter.com/rcosteira79'
+        - name: site
+          link: 'https://ricardocosteira.com/'
+    - id: 3
+      name: Catarina
+      surname: Lucas
+      title: Organizador GDG Coimbra
+      thumbnailUrl: Coimbra/catarina.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Coimbra
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/catarinalucasloureiro/'
+        - name: instagram
+          link: 'https://www.instagram.com/whyareustalking/'
+        - name: site
+          link: 'https://www.behance.net/catarina_lucas'
+        - name: site
+          link: 'https://dribbble.com/catarinalucas'
+    - id: 4
+      name: João
+      surname: Marques
+      title: Organizador GDG Coimbra
+      thumbnailUrl: Coimbra/joao.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Coimbra
+      social:
 - name: GDG Covilhã
   members:
 - name: GDG Faro
