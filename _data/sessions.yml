@@ -1,10 +1,10 @@
 -
-  id: 002
-  title: "Talk 1"
-  description: "Descrição 1"
+  id: 001
+  title: "Creating games with Flutter"
+  description: "Flutter já se prova como uma das maneiras mais performáticas e flexíveis para se criar interfaces de usuário. Vamos ver como podemos tirar vantagens dessas características para criarmos jogos."
   subtype: presentation
-  speakers: [4]
+  speakers: [1]
   language: PT
   complexity: "Intermédio" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"

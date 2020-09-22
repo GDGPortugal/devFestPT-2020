@@ -142,7 +142,7 @@
       name: Carlos
       surname: Abreu
       title: Organizador GDG Madeira
-      thumbnailUrl: CarlosAbreu.jpg
+      thumbnailUrl: Madeira/CarlosAbreu.jpg
       ribbon:
         - abbr: GDG
           title: GDG Madeira
@@ -159,7 +159,7 @@
       name: Diogo 
       surname: Freitas
       title: Organizador GDG Madeira
-      thumbnailUrl: DiogoFreitas.jpg
+      thumbnailUrl: Madeira/DiogoFreitas.jpg
       ribbon:
         - abbr: GDG
           title: GDG Madeira
@@ -170,7 +170,7 @@
       name: Fernando 
       surname: Martins
       title: Organizador GDG Madeira
-      thumbnailUrl: FernandoMartins.jpg
+      thumbnailUrl: Madeira/FernandoMartins.jpg
       ribbon:
         - abbr: GDG
           title: GDG Madeira
