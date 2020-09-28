@@ -2,6 +2,23 @@
   members:
 - name: Castelo Branco
   members:
+    - id: 1
+      name: Bruno
+      surname: Matias
+      title: Organizador GDG Castelo Branco 
+      thumbnailUrl:  http://brunomatias.com/eu2.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Castelo Branco
+      social:
+        - name: facebook
+          link: 'https://www.facebook.com/bmgmatias/'
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/bmatias/'
+        - name: twitter
+          link: 'https://twitter.com/BrunoMGMatias'
+        - name: instragram
+          link: 'https://www.instagram.com/bmatias.oficial/?hl=pt'
 - name: GDG Coimbra
   members:
     - id: 1
@@ -166,6 +183,28 @@
           link: 'https://twitter.com/kishido88'
 - name: GDG Lisboa
   members:
+    - id: 1
+      name: Filipe
+      surname: Barroso
+      title: Organizador GDG Lisboa
+      thumbnailUrl: https://placekitten.com/g/200/200
+      ribbon:
+        - abbr: GDG
+          title: GDG Lisboa
+      social: 
+        - name: twitter
+          link: 'https://twitter.com/abarroso'
+    - id: 2
+      name: Inês
+      surname: Brás
+      title: Organizadora GDG Lisboa
+      thumbnailUrl: https://placekitten.com/g/200/200
+      ribbon:
+        - abbr: GDG
+          title: GDG Lisboa
+      social: 
+        - name: twitter
+          link: 'https://twitter.com/inesarmadabras'
 - name: GDG Madeira
   members:
     - id: 1
