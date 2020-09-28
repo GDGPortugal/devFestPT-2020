@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/team/", text: "Equipa"}
- - {permalink: "/newsletter/", text: "Newsletter"}
+# - {permalink: "/newsletter/", text: "Newsletter"}
 # bottomNavigationLinks:
 #  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 # rightNavigationButtons:
@@ -194,7 +194,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
