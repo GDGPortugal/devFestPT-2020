@@ -64,6 +64,36 @@
   members:
 - name: GDG Faro
   members:
+    - id: 1
+      name: Daniel
+      surname: Jorge
+      title: Organizador GDG Faro
+      thumbnailUrl: Faro/daniel.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Faro
+      social:
+        - name: github
+          link: 'https://github.com/danidroid'
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/dfajorge'
+        - name: twitter
+          link: 'https://twitter.com/dfajorge'
+    - id: 2
+      name: Tiago
+      surname: Fernandes
+      title: Organizador GDG Faro
+      thumbnailUrl: Faro/tiago.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Faro
+      social:
+        - name: github
+          link: 'https://github.com/tjgfernandes'
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/tjgfernandes'
+        - name: twitter
+          link: 'https://twitter.com/tjgfernandes'
 - name: GDG Leiria
   members:
     - id: 1
