@@ -1,10 +1,51 @@
+
 -
   id: 001
+  title: "Boas vindas Dia 1"
+  description: "Boas vindas e apresentação do primeiro dia do DevFest Portugal 2020"
+  subtype: presentation
+  speakers: [1]
+  language: PT
+  complexity: "Nenhuma"
+-
+  id: 002
+  title: "A anunciar"
+  description: "A anunciar"
+  subtype: presentation
+  speakers: [0]
+  language: PT
+  complexity: "Nenhuma"
+-
+  id: 003
+  title: "Sessão de Encerramento"
+  description: "Sessão de encerramento do primeiro dia do DevFest Portugal 2020"
+  subtype: presentation
+  speakers: [1]
+  language: PT
+  complexity: "Nenhuma"
+-
+  id: 004
+  title: "Boas vindas Dia 2"
+  description: "Boas vindas e apresentação do segundo dia do DevFest Portugal 2020"
+  subtype: presentation
+  speakers: [1]
+  language: PT
+  complexity: "Nenhuma"
+-
+  id: 005
+  title: "Sessão de Encerramento"
+  description: "Sessão de encerramento do segundo dia do DevFest Portugal 2020"
+  subtype: presentation
+  speakers: [1]
+  language: PT
+  complexity: "Nenhuma"
+-
+  id: 006
   title: "Creating games with Flutter"
   description: "Flutter já se prova como uma das maneiras mais performáticas e flexíveis para se criar interfaces de usuário. Vamos ver como podemos tirar vantagens dessas características para criarmos jogos."
   subtype: presentation
   speakers: [1]
   language: PT
-  complexity: "Intermédio" 
+  complexity: "Intermédio"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"

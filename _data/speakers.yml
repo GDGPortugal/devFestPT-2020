@@ -1,5 +1,16 @@
-- 
+-
+  id: 0
+  name: "A"
+  surname: "Anunciar"
+  company: "Empresa"
+  title: "A anunciar"
+-
   id: 1
+  name: "Organização"
+  company: "GDG Portugal"
+  thumbnailUrl: ../favicons/apple-touch-icon.png
+-
+  id: 2
   name: "Renan"
   surname: "Araújo"
   company: "Dashdash"
