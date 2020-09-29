@@ -9,15 +9,15 @@
   name: "Organização"
   company: "GDG Portugal"
   thumbnailUrl: ../favicons/apple-touch-icon.png
--
-  id: 2
-  name: "Renan"
-  surname: "Araújo"
-  company: "Dashdash"
-  title: "UI engineer"
-  bio: '<p>Brasileiro morando no Porto sempre apaixonado em criar coisas bonitas com lógica e matematica. Gosta de todo tipo de desenvolvimento de UI, de apps a jogos. Mantenedor open source e contribuidor de projetos como Flutter e Flame. Ama a WEB e Flutter.</p>'
-  thumbnailUrl: RenanAraujo.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/caraujo"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/renancaraujo/"}
+#-
+#  id: 2
+#  name: "Renan"
+#  surname: "Araújo"
+#  company: "Dashdash"
+#  title: "UI engineer"
+#  bio: '<p>Brasileiro morando no Porto sempre apaixonado em criar coisas bonitas com lógica e matematica. Gosta de todo tipo de desenvolvimento de UI, de apps a jogos. Mantenedor open source e contribuidor de projetos como Flutter e Flame. Ama a WEB e Flutter.</p>'
+#  thumbnailUrl: RenanAraujo.jpg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/caraujo"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/renancaraujo/"}
