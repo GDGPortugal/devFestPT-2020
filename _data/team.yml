@@ -187,7 +187,7 @@
       name: Filipe
       surname: Barroso
       title: Organizador GDG Lisboa
-      thumbnailUrl: https://placekitten.com/g/200/200
+      thumbnailUrl: Lisboa/filipe_barroso.jpeg
       ribbon:
         - abbr: GDG
           title: GDG Lisboa
@@ -198,7 +198,7 @@
       name: Inês
       surname: Brás
       title: Organizadora GDG Lisboa
-      thumbnailUrl: https://placekitten.com/g/200/200
+      thumbnailUrl: Lisboa/ines_bras.jpeg
       ribbon:
         - abbr: GDG
           title: GDG Lisboa
@@ -252,5 +252,14 @@
           link: 'https://www.instagram.com/fernando.j.ma/'
 - name: GDG Porto
   members:
-
-
+    - id: 1
+    name: Artur  
+    surname: Costa
+    title: Organizador GDG Porto
+    thumbnailUrl: Porto/artur_costa.jpeg
+    ribbon:
+      - abbr: GDG
+        title: GDG Porto
+    social:
+      - name: twitter
+        link: 'https://twitter.com/arturc_dev'
