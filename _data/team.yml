@@ -6,7 +6,7 @@
       name: Bruno
       surname: Matias
       title: Organizador GDG Castelo Branco 
-      thumbnailUrl:  http://brunomatias.com/eu2.jpg
+      thumbnailUrl: Castelo/bruno_matias.jpg
       ribbon:
         - abbr: GDG
           title: GDG Castelo Branco
@@ -253,13 +253,13 @@
 - name: GDG Porto
   members:
     - id: 1
-    name: Artur  
-    surname: Costa
-    title: Organizador GDG Porto
-    thumbnailUrl: Porto/artur_costa.jpeg
-    ribbon:
-      - abbr: GDG
-        title: GDG Porto
-    social:
-      - name: twitter
-        link: 'https://twitter.com/arturc_dev'
+      name: Artur  
+      surname: Costa
+      title: Organizador GDG Porto
+      thumbnailUrl: Porto/artur_costa.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Porto
+      social:
+        - name: twitter
+          link: 'https://twitter.com/arturc_dev'
