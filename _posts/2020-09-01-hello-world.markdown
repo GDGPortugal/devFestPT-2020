@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Olá Mundo!"
+title:  "DevFest Portugal 2020"
 date:   2020-09-01 09:00:00
 isStaticPost: false
 ---
-GDG Portugal 2020 irá realizar-se virtualmente nos dias 16 e 17 Outubro!
+DevFest Portugal 2020, irá realizar-se virtualmente, nos dias 16 e 17 Outubro!
 
-Conhecidos em vários pontos do mundo, mas também presentes em Portugal, as Google Developer Groups têm tido um papel na tua cidade de forma ativa e voluntária, a contribuir para a a comunidade em si.
+É com grande orgulho que nós, organizadores das Google Developers Group em Portugal, juntamo-nos e preparamos esta oferta à comunidade: Uma conferência em directo e na lingua Portuguesa. Dividida por dois dias e em horário nobre!
 
-- Vamos ser diferentes e será completamente em Português
-- Mantemos a tradição de contribuir para a sociedade
-- Juntamos todas as GDGs de Portugal!
+Juntamo-nos, GDGs de Portugal, e mantendo o espirito que tanto a comunidade nos conhece, preparámos-te uma agenda preenchida. No entanto, em modo usual nosso, pedimos às empresas patrocinadores, que já nos são conhecidas e nos têm ajudado tanto ao longo destes anos, para realizarem uma doação e duas associações escolhidas por nós, em troco de ter a sua marca presente na conferência. Por isso, ao veres uma marca durante a conferência, saberás para além de ser um patrocinio em que nós confiamos mas também é um patrocínio que irá ajudar associações.
+
+Esta conferência irá realizar-se a 16 e 17 Outubro, confirma as horas na agenda e reserva já no teu calendário. As apresentações serão todas ao vivo e todos os erros que encontrares, somos simplesmente nós a dar mais carisma à conferência. Por isso, não percas nenhuma!
