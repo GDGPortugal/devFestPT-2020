@@ -1,5 +1,22 @@
 - name: GDG Bragança
   members:
+    - id: 1
+      name: Victor
+      surname: Oliveira
+      title: Organizador GDG Bragança
+      thumbnailUrl: Braganca/victor.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Bragança
+      social:
+        - name: twitter
+          link: 'https://twitter.com/_victorjg'
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/victor-oliveira-1a091151/'
+        - name: medium
+          link: 'ttps://medium.com/@victorlopesjg'
+        - name: github
+          link: 'https://github.com/victorlopesjg'
 - name: Castelo Branco
   members:
     - id: 1
