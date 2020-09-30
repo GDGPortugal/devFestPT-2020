@@ -33,7 +33,7 @@
      - {
        startTime: "19:20",
        endTime: "19:30",
-       sessionIds: [004]
+       sessionIds: [003]
      }
  -
    date: "2020-10-17"
@@ -44,7 +44,7 @@
      - {
        startTime: "14:00",
        endTime: "14:10",
-       sessionIds: [001]
+       sessionIds: [004]
      }
      - {
        startTime: "14:10",
@@ -69,5 +69,5 @@
      - {
        startTime: "17:20",
        endTime: "17:30",
-       sessionIds: [004]
+       sessionIds: [005]
      }
