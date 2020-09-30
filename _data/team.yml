@@ -19,6 +19,28 @@
           link: 'https://twitter.com/BrunoMGMatias'
         - name: instragram
           link: 'https://www.instagram.com/bmatias.oficial/?hl=pt'
+    - id: 2
+      name: Hélio
+      surname: Freitas
+      title: Organizador GDG Castelo Branco
+      thumbnailUrl: Castelo/helio_freitas.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Castelo Branco
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/hélio-freitas-5ba68121/'
+    - id: 2
+      name: Roberto
+      surname: Pereira
+      title: Organizador GDG Castelo Branco
+      thumbnailUrl: Castelo/roberto.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Castelo Branco
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/roberto-pereira-96986a154/'
 - name: GDG Coimbra
   members:
     - id: 1
@@ -79,6 +101,68 @@
       social:
 - name: GDG Covilhã
   members:
+    - id: 1
+      name: Diogo
+      surname: Lavareda
+      title: Organizador GDG Covilha
+      thumbnailUrl: Covilha/diogo.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+        - name: github
+          link: 'https://github.com/dlavareda'
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/diogo-lavareda-15498417/'
+    - id: 2
+      name: Igor
+      surname: Matias
+      title: Organizador GDG Covilha
+      thumbnailUrl: Covilha/igor.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+        - name: site
+          link: 'https://igormatias.com/'
+    - id: 3
+      name: Gabriel
+      surname: Almeida
+      title: Organizador GDG Covilha
+      thumbnailUrl: Covilha/gabriel.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+        - name: linkedin
+          link: 'https://www.linkedin.com/in/gabrielalmd/'
+    - id: 4
+      name: Paulo
+      surname: Silva
+      title: Organizador GDG Covilha
+      thumbnailUrl: Covilha/paulo.jpg
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+    - id: 5
+      name: João
+      surname: Vieira
+      title: Organizador GDG Covilha
+      thumbnailUrl: Covilha/joao.jpeg
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
+    - id: 6
+      name: Nuno
+      surname: Garcia
+      title: Organizador GDG Covilha
+      thumbnailUrl: placeholder.png
+      ribbon:
+        - abbr: GDG
+          title: GDG Covilha
+      social:
 - name: GDG Faro
   members:
     - id: 1
@@ -124,8 +208,6 @@
       social:
         - name: github
           link: 'https://github.com/petealves'
-        - name: instagram
-          link: 'https://www.instagram.com/carlosrsabreu/'
     - id: 2
       name: Ricardo
       surname: Maltez
