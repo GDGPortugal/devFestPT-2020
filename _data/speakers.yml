@@ -1,23 +1,39 @@
 -
-  id: 0
+  id: 2
+  name: "Renan"
+  surname: "Araújo"
+  company: "Dashdash"
+  title: "UI engineer"
+  bio: 'Brasileiro morando no Porto sempre apaixonado em criar coisas bonitas com lógica e matematica. Gosta de todo tipo de desenvolvimento de UI, de apps a jogos. Mantenedor open source e contribuidor de projetos como Flutter e Flame. Ama a WEB e Flutter.'
+  thumbnailUrl: RenanAraujo.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/caraujo"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/renancaraujo/"}
+-
+  id: 3
+  name: "Isabel"
+  surname: "Costa"
+  company: "Globality"
+  title: "Software Engineer"
+  bio: 'Isabel Costa trabalha como Software Engineer, no Reino Unido. Ela adora partilhar conhecimento sobre como começou a contribuir para Open Source, e ajudar a comunidade a sentir-se mais a vontade para contribuir. Ela participou no programa Google Summer of Code como estudante em 2018, e este ano como mentora e admin na comunidade AnitaB.org Open Source. Atualmente, ela trabalha na Globality em Londres. No seu tempo livre, para além do trabalho em Open Source, ela é uma das organizadoras da comunidade AnitaB.org London e mentora no bootcamp Black Codher.'
+  thumbnailUrl: isabel-costa.png
+  rockstar: true
+  social:
+    - {name: "website", link: "https://isabelcosta.github.io"}
+    - {name: "twitter", link: "https://twitter.com/isabelcmdcosta"}
+    - {name: "github", link: "https://github.com/isabelcosta"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/isabelcmdcosta"}
+-
+  id: 100
   name: "A"
   surname: "Anunciar"
   company: "Empresa"
   title: "A anunciar"
+  thumbnailUrl: ../favicons/apple-touch-icon.png
 -
-  id: 1
+  id: 101
   name: "Organização"
   company: "GDG Portugal"
   thumbnailUrl: ../favicons/apple-touch-icon.png
-#-
-#  id: 2
-#  name: "Renan"
-#  surname: "Araújo"
-#  company: "Dashdash"
-#  title: "UI engineer"
-#  bio: '<p>Brasileiro morando no Porto sempre apaixonado em criar coisas bonitas com lógica e matematica. Gosta de todo tipo de desenvolvimento de UI, de apps a jogos. Mantenedor open source e contribuidor de projetos como Flutter e Flame. Ama a WEB e Flutter.</p>'
-#  thumbnailUrl: RenanAraujo.jpg
-#  rockstar: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/caraujo"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/renancaraujo/"}
+    
