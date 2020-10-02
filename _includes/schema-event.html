@@ -28,6 +28,7 @@
                 "longitude" : "{{ coordinates[1] }}"
             }
         },
+        {%- comment -%}
         // Not supported yet
         // "organizer" : {
         //     "@type" : "Organization",
@@ -38,6 +39,7 @@
         //     "email" : "{{ site.organizerEmail }}",
         //     "sameAs" : "{{ site.organizerLink }}"
         // },
+        {%- endcomment -%}
         "subEvent" : {
             "@type" : "Event",
             "name" : "{{ site.hackathonTitle }}",
