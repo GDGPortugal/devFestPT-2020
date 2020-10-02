@@ -27,7 +27,7 @@
                                 {% endif %}
                             </figure>
                         </div>
-                        <div class="lily-bottom">
+                        <div class="lily-bottom people-details">
                             <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
                                 {% if site.showSessions %} 
@@ -35,7 +35,7 @@
                                         {% for session_speaker in session.speakers %} 
                                             {% if session_speaker == speaker.id %}
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
-                                                <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
+                                                <li class="title slider-item animated fadeInRight hidden" style="height: 30px">{{ session.title }}</li>
                                             {% endif %} 
                                         {% endfor %} 
                                     {% endfor %} 
@@ -43,6 +43,17 @@
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
                                 {% endif %}
+                            </ul>
+                            <ul class="social" style="padding-left: 0px;">
+                                {% for social in speaker.social %}
+                                <li style="display: inline-block; padding-right: 3px;">
+                                    <a href="{{ social["link"] }}" target="_blank">
+                                    <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                                    </svg>
+                                    </a>
+                                </li>
+                                {% endfor %}
                             </ul>
                             <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Next</a>
                         </div>
