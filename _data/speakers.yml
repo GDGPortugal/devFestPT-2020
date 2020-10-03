@@ -1,5 +1,7 @@
+
+
 -
-  id: 2
+  id: 1
   name: "Renan"
   surname: "Araújo"
   company: "Dashdash"
@@ -11,7 +13,7 @@
     - {name: "twitter", link: "https://twitter.com/__caraujo__"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/renancaraujo/"}
 -
-  id: 3
+  id: 2
   name: "Isabel"
   surname: "Costa"
   company: "Globality"
@@ -24,13 +26,6 @@
     - {name: "twitter", link: "https://twitter.com/isabelcmdcosta"}
     - {name: "github", link: "https://github.com/isabelcosta"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/isabelcmdcosta"}
--
-  id: 100
-  name: "A"
-  surname: "Anunciar"
-  company: "Empresa"
-  title: "A anunciar"
-  thumbnailUrl: ../favicons/apple-touch-icon.png
 -
   id: 101
   name: "Organização"
