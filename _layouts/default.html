@@ -49,7 +49,9 @@ layout: compress
     <script>
         if ($(window).width() > 767) {
             document.write('<script async defer  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqgy1kEcoK52MJF6x-hquuRIhWdL0lthc"><\/script>')
-            // document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+            {%- comment -%}  
+                ⁄⁄document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+            {%- endcomment -%}
         } 
     </script>
     {% elsif page.permalink == '/logistics/' %}
