@@ -43,7 +43,7 @@
   title: "Creating games with Flutter"
   description: "Flutter já se prova como uma das maneiras mais performáticas e flexíveis para se criar interfaces de usuário. Vamos ver como podemos tirar vantagens dessas características para criarmos jogos."
   subtype: presentation
-  speakers: [1]
+  speakers: [2]
   language: PT
   complexity: "Intermédio"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
