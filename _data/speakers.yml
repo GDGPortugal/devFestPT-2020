@@ -27,6 +27,18 @@
     - {name: "github", link: "https://github.com/isabelcosta"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/isabelcmdcosta"}
 -
+  id: 3
+  name: "Andre"
+  surname: "Garzia"
+  company: "Mozilla"
+  title: "Software Engineer"
+  bio: 'Andre é um Mozilla TechSpeaker focado em tecnologias de descentralização e é um membro ativo da comunidade Secure Scuttlebutt. Nos últimos anos, ele publicou livros sobre o Firefox OS e administrou um programa de alfabetização na web em bairros vulneráveis ​​do Rio. Ele acredita firmemente na capacitação por meio da experimentação tecnológica. Ele agora mora em Londres com sua esposa, gatos e mais placas de IoT do que ele pode usar.'
+  thumbnailUrl: andre-garzia.png
+  rockstar: true
+  social:
+    - {name: "website", link: "http://andregarzia.com/about.html"}
+    - {name: "twitter", link: "https://twitter.com/soapdog"}
+    -
   id: 101
   name: "Organização"
   company: "GDG Portugal"
