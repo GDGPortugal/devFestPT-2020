@@ -38,7 +38,8 @@
   social:
     - {name: "website", link: "http://andregarzia.com/about.html"}
     - {name: "twitter", link: "https://twitter.com/soapdog"}
-    -
+
+-
   id: 101
   name: "Organização"
   company: "GDG Portugal"
