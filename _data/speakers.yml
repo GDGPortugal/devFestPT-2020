@@ -36,7 +36,7 @@
   thumbnailUrl: andre-garzia.png
   rockstar: true
   social:
-    - {name: "website", link: "http://andregarzia.com/about.html"}
+    - {name: "website", link: "https://andregarzia.com/about.html"}
     - {name: "twitter", link: "https://twitter.com/soapdog"}
 
 -
