@@ -67,6 +67,20 @@
     - {name: "github", link: "https://github.com/isabelcosta"}
     - {name: "twitter", link: "https://twitter.com/GonPalma"}
 
+-
+  id: 6
+  name: "Caneco"
+  surname: ""
+  company: "Medicare"
+  title: "Full-Stack Developer"
+  bio: 'Full-Stack Developer na Medicare; Locutor do "Laravel Live Portugal" Podcast; Contribuidor Open-source na comunidade de Laravel; A desenvolver Cachopo_1 e Cachopo_2; && criador de Memes;'
+  thumbnailUrl: caneco.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "http://linkedin.com/in/caneco"}
+    - {name: "github", link: "http://github.com/sponsors/caneco"}
+    - {name: "twitter", link: "https://twitter.com/caneco"}
+
 
 -
   id: 101
