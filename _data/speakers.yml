@@ -40,6 +40,35 @@
     - {name: "twitter", link: "https://twitter.com/soapdog"}
 
 -
+  id: 4
+  name: "Ana"
+  surname: "Ferreira"
+  company: "Doist"
+  title: "Head of Design"
+  bio: 'Ana Ferreira é Head of Design na Doist, uma empresa totalmente remota, especializada em software de produtividade que promove uma forma mais equilibrada de trabalhar e viver. A Doist criou a aplicação de gestão de tarefas Todoist, que ajuda mais de 25 milhões de pessoas a manterem-se organizadas, e Twist, a aplicação de comunicação assíncrona, criada especialmente para equipas remotas. Ana começou a trabalhar na Doist em 2013, depois de descobrir a sua paixão por criar aplicações que simplificam e melhoram a vida das pessoas. Atualmente ela lidera a equipa de design (distribuída por sete países, de Taiwan aos Estados Unidos da América) em tudo relacionado com Design. Ana é apaixonada por design, produto, usabilidade, acessibilidade e produtividade. E claro, ela acredita que o futuro do trabalho é Remoto.'
+  thumbnailUrl: ana-ferreira.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anaferreira/"}
+    - {name: "dribble", link: "https://dribbble.com/ana"}
+    - {name: "twitter", link: "https://twitter.com/ac_f"}
+
+-
+  id: 5
+  name: "Gonçalo"
+  surname: "Palma"
+  company: "3Rein"
+  title: "Flutter Lead Developer"
+  bio: 'Sou um apaixonado por Programação e Open-Source que de momento está a trabalhar com Flutter. Com Flutter descobri não só o prazer que tenho por escrever artigos técnicos como também descobri o poder de utilizar Open-Source para boas causas, como criação de ferramentas para outros ou aplicações como o Fogos.pt em que se disponibiliza informação vital para a população. Tenho como objectivo ensinar como usar Software para causas que vão para lá dos usos comerciais - Software é algo que nos pode ajudar a resolver os nosso problemas do dia a dia bem como pode ser algo que potencialmente ajuda a nossa comunidade - se tivermos dispostos a dar o nosso tempo e atenção.'
+  thumbnailUrl: goncalo-palma.png
+  rockstar: true
+  social:
+    - {name: "medium", link: "https://medium.com/@solid.goncalo"}
+    - {name: "github", link: "https://github.com/isabelcosta"}
+    - {name: "twitter", link: "https://twitter.com/GonPalma"}
+
+
+-
   id: 101
   name: "Organização"
   company: "GDG Portugal"
