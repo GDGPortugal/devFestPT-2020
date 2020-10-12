@@ -40,11 +40,52 @@
   complexity: "Nenhuma"
 -
   id: 006
-  title: "Creating games with Flutter"
+  title: "Criando Jogos Com Flutter"
   description: "Flutter já se prova como uma das maneiras mais performáticas e flexíveis para se criar interfaces de usuário. Vamos ver como podemos tirar vantagens dessas características para criarmos jogos."
   subtype: presentation
-  speakers: [0]
+  speakers: [1]
   language: PT
   complexity: "Intermédio"
+-
+  id: 007
+  title: "Contribuir Para Open Source Como Colaborador e Maintainer"
+  description: "Contribuir para projectos Open Source (código aberto) pode ser intimidante. Como colaborador, normalmente tens de te familiarizar com um projeto para contribuir. Como maintainer, és responsável por fazer o projeto avançar e gerir as suas contribuições. Quer sejas um maintainer ou um colaborador, ambos os lados têm seus desafios.\nNesta apresentação, quero partilhar minha experiência e perspectiva de contribuir para Open Source de ambos os lados, enquanto partilho dicas sobre como começar a contribuir para um novo projeto e sobre como manter um projeto de forma atrativa para novos colaboradores. No final da apresentação, perceberás como podemos colaborar de forma mais eficaz, se entendermos cada lado."
+  subtype: presentation
+  speakers: [2]
+  language: PT
+  complexity: "Nenhuma"
+-
+  id: 008
+  title: "Traduções, Agricultura e o futuro da Web"
+  description: "Nesta palestra, faremos um tour por conceitos dificeis de traduzir e técnicas agrícolas nativas para nos ajudar a pensar sobre para onde o ecossistema da web parece estar se dirigindo e como alterar o curso atual em direção a um futuro mais sustentável."
+  subtype: presentation
+  speakers: [3]
+  language: PT
+  complexity: "Nenhuma"
+-
+  id: 009
+  title: "Add-to-App - Como utilizar Flutter numa App Nativa"
+  description: "Embora Flutter nos ofereça a possibilidade de lançarmos aplicações para várias plataformas com uma base de código, é difícil convencer uma empresa a mudar todos os seus projectos para começarem a utilizar Flutter. O custo de reescrever e de ensinar todos os developer pode ser impeditivo, o que leva a que muitos não considerem esta tecnologia.\nContudo, Flutter não nos deixa apenas criar aplicações do 0 - podemos também adicionar Flutter a aplicações nativas atuais - o que nos dá a liberdade de lançar novas funcionalidades totalmente feitas em Flutter sem que tenhamos de reescrever a aplicação de raiz.\nNesta talk vamos ver como podemos adicionar a uma aplicação Android já existente um ecrã em Flutter, com a possibilidade de passar dados entre as duas tecnologias."
+  subtype: presentation
+  speakers: [5]
+  language: PT
+  complexity: "Intermédio / Avançado"
+-
+  id: 010
+  title: "Design Remoto"
+  description: "Nesta apresentação vais ficar a saber como os dez colaboradores da equipa de design da Doist conseguem colaborar e criar produtos coerentes (e usados por milhões) apesar de trabalharem de dez cidades diferentes e com diferenças horárias que sejam às 14 horas.\nExistem muito mitos sobre trabalho de design remoto: Não é possível fazer brainstorm, Não é possível criar produtos consistentes, Não é possível criar espírito de equipa, … Durante esta talk vais perceber que isso não é verdade, e que como tudo existem vantagens e desvantagens. Mas nós achamos que as vantagens são maiores que as desvantagens!"
+  subtype: presentation
+  speakers: [4]
+  language: PT
+  complexity: "Nenhuma"
+-
+  id: 011
+  title: "A Arte da Validação (de Formulários)"
+  description: "Se algo que a minha mãe sempre me ensinou foi a não confiar em estranhos – então porque devo eu aceitar dados do utilizador sem os validar primeiro?\nValidar a informação do utilizador é importante, não só para manter o seu sistema seguro mas também para prevenir erros do utilizador e melhorar a sua experiência de utilização.\nMarque na agenda, e apareça para descobrir todo um leque de truques vão facilitar a sua vida e a dos seus utilizadores."
+  subtype: presentation
+  speakers: [6]
+  language: PT
+  complexity: "Nenhuma"
+
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
