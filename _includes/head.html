@@ -21,7 +21,8 @@
     <meta property="og:type" content="website" /> 
     <meta property="og:url" content="{{ site.url }}" />
     <meta property="og:image" content="{{ site.socialImageSrcFacebook | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:description" content="{{ site.description }}" /> 
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="fb:app_id" content="{{ site.facebookAppId }}"/> 
     
     <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="shortcut icon" href="{{ "/img/favicons/favicon.ico" | prepend: site.baseurl }}">
