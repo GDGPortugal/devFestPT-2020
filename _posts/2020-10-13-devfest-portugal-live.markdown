@@ -6,6 +6,7 @@ isStaticPost: false
 ---
 
 Este ano, as comunidades Google Developers Group de Portugal juntaram-se para organizar uma única conferência nacional, o GDG DevFest Portugal’20 - um evento 100% online e falado em português que terá lugar nos dias 16 e 17 de Outubro.
+
 Esta conferência online pretende dar à comunidade um pouco da energia e conhecimento dos eventos que já nos são característicos, num ano atípico para todos nós  - reúne apresentações de palestrantes nacionais e internacionais de renome, sobre os mais variados temas - web, AI, UI/UX, cloud, mobile, open source mas também business e diversidade.
 
 ## Quando ?
@@ -18,11 +19,6 @@ Esta conferência online pretende dar à comunidade um pouco da energia e conhec
 Para assistires aos fantásticos conteúdos que temos para ti basta acederes aos seguintes links:
 16 de Outubro - https://www.youtube.com/watch?v=0nl6CZJiFnY
 17 de Outubro - https://www.youtube.com/watch?v=-EFVDjDdeXw
-
-
-Para complementar o resto do teu fim de semana temos duas recomendações que vais adorar:
-DevFest Tech Sessions - https://devfest.gdgportugal.xyz/blog/devfest-ts
-Android Training Program 2020 - https://devfest.gdgportugal.xyz/blog/atp-portugal 
 
 
 ## Organização
