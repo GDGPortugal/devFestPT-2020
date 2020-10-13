@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "PDMFC"
+date:   2020-10-14 11:00:00
+isStaticPost: false
+---
+
+*O Devfest acontece todos os anos graças às comunidades e às empresas que nos apoiam.*
+*Este ano convidamos a PDMFC a realizar uma doação direta à Casa Qui (associação de apoio a jovens LGBT+ em situações de risco ou perigo) e CASA (Centro de Apoio aos Sem Abrigo).*
+
+#### PDMFC
+
+Presente no mundo dos Sistemas de Informação desde 1993, a PDMFC dedica-se ao fornecimento e à implementação de soluções de vanguarda, sendo influente em Portugal, no Brasil, em Moçambique, na Grécia e no Reino Unido. Conta com uma base altamente qualificada de serviços e equipas de consultoria, além de uma sólida experiência de implementação.
+
+A empresa procura ajudar os seus clientes através de projetos de alta qualidade em áreas como Segurança, Information Governance, Cognitive, Transformação Digital, Cloud, entre outros. Destaca-se, também, através da participação em projetos nacionais e europeus como o Portugal 2020 e o Horizonte 2020.
+
+A PDMFC é a empresa-mãe do Grupo PDM, criado em 2008 e, atualmente, composto por 14 subsidiárias – a nível nacional e internacional – que atuam em diferentes áreas: TI, Telecomunicações, Gaming, Marketing, Eletrónica, Investimentos Financeiros, Economia Social, entre outras.
+pdmfc.com
