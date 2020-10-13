@@ -22,7 +22,7 @@
   thumbnailUrl: isabel-costa.png
   rockstar: true
   social:
-    - {name: "website", link: "https://isabelcosta.github.io"}
+    - {name: "site", link: "https://isabelcosta.github.io"}
     - {name: "twitter", link: "https://twitter.com/isabelcmdcosta"}
     - {name: "github", link: "https://github.com/isabelcosta"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/isabelcmdcosta"}
@@ -36,7 +36,7 @@
   thumbnailUrl: andre-garzia.jpg
   rockstar: true
   social:
-    - {name: "website", link: "https://andregarzia.com/about.html"}
+    - {name: "site", link: "https://andregarzia.com/about.html"}
     - {name: "twitter", link: "https://twitter.com/soapdog"}
 
 -
@@ -50,7 +50,7 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/anaferreira/"}
-    - {name: "dribble", link: "https://dribbble.com/ana"}
+    - {name: "site", link: "https://dribbble.com/ana"}
     - {name: "twitter", link: "https://twitter.com/ac_f"}
 
 -
@@ -63,7 +63,7 @@
   thumbnailUrl: goncalo-palma.png
   rockstar: true
   social:
-    - {name: "medium", link: "https://medium.com/@solid.goncalo"}
+    - {name: "site", link: "https://medium.com/@solid.goncalo"}
     - {name: "github", link: "https://github.com/isabelcosta"}
     - {name: "twitter", link: "https://twitter.com/GonPalma"}
 
@@ -81,6 +81,33 @@
     - {name: "github", link: "http://github.com/sponsors/caneco"}
     - {name: "twitter", link: "https://twitter.com/caneco"}
 
+-
+  id: 7
+  name: "Joana"
+  surname: "Rita Sousa"
+  company: ""
+  title: ""
+  bio: 'Joana Rita Sousa é filósofa. Licenciada em filosofia, é mestre em gestão de recursos humanos e em filosofia para crianças. Estudou relações públicas, consultoria de empresas e sânscrito (durante meia dúzia de meses). Trabalha como formadora e consultora, colaborando com empresas e pessoas na área da gestão da reputação, ghostwriting e gestão de comunidades. Dizem as más (e as boas) línguas que vive no Twitter.'
+  thumbnailUrl: joana_rita_sousa.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/JoanaRSSousa"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/joanarssousa/"}
+    - {name: "instagram", link: "https://www.instagram.com/joanarssousa/"}
+    - {name: "site", link: "https://joanarita.eu/"}
+    - {name: "site", link: "https://joanarita.eu/blog/"}
+
+-
+  id: 8
+  name: "Luiz"
+  surname: "Gustavo Martins"
+  company: "Google"
+  title: "TensorFlow Developer Advocate"
+  bio: 'Gus é Developer Advocate no time de TensorFlow. Sua paixão é deixar Machine Learning fácil para os desenvolvedores. Ultimamente ele tem trabalhado com TensorFlow Hub ajudando a deixar modelos de ML mais acessíveis a todos'
+  thumbnailUrl: gus.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/gusthema"}
 
 -
   id: 101
