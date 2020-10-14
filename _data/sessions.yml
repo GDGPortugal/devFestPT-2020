@@ -45,7 +45,7 @@
   subtype: presentation
   speakers: [1]
   language: PT
-  complexity: "Intermédio"
+  complexity: "Intermédia"
 -
   id: 007
   title: "Contribuir Para Open Source Como Colaborador e Maintainer"
@@ -69,7 +69,7 @@
   subtype: presentation
   speakers: [5]
   language: PT
-  complexity: "Intermédio / Avançado"
+  complexity: "Intermédia / Avançada"
 -
   id: 010
   title: "Design Remoto"
@@ -85,7 +85,7 @@
   subtype: presentation
   speakers: [6]
   language: PT
-  complexity: "Nenhuma"
+  complexity: "Intermédia"
 -
   id: 012
   title: "TensorFlow Hub - Fazendo Machine Learning mais fácil"
