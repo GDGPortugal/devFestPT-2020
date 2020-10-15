@@ -9,9 +9,12 @@
     - {name: "Beyond Vision", description: "", link: "https://www.beyond-vision.pt/", imageUrl: "beyond-vision.png"}
     - {name: "Dengun", description: "", link: "https://www.dengun.com/", imageUrl: "dengun.svg"}
     - {name: "PDMFC", description: "", link: "https://www.pdmfc.com/", imageUrl: "PDMFC.png"}
-    - {name: "BOLD by Devoteam", description: "", link: "https://boldint.com/", imageUrl: "bold.jpeg"}
+    - {name: "laredoute", description: "", link: "https://www.laredoute.pt/", imageUrl: "laredoute.png"}
     - {name: "Turbine Kreuzberg", description: "", link: "https://turbinekreuzberg.com/", imageUrl: "turbine.png"}
     - {name: "Jetbrains", description: "The most intelligent IDE's", link: "https://jetbrains.com", imageUrl: "jetbrains.png"}
+    - {name: "Arentia", description: "", link: "https://www.arentia.pt/", imageUrl: "arentia.png"}
+    - {name: "wit", description: "", link: "https://www.wit-software.com/", imageUrl: "wit.png"}
+    - {name: "BOLD by Devoteam", description: "", link: "https://boldint.com/", imageUrl: "bold.jpeg"}
     # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
     # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
     # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
